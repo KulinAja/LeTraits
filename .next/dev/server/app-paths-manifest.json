@@ -1,0 +1,8 @@
+{
+  "/[lang]/ai-consultant/page": "app/[lang]/ai-consultant/page.js",
+  "/[lang]/ingredients/[slug]/page": "app/[lang]/ingredients/[slug]/page.js",
+  "/[lang]/ingredients/page": "app/[lang]/ingredients/page.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/chat/route": "app/api/chat/route.js"
+}

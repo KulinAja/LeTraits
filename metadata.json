@@ -1,0 +1,6 @@
+{
+  "name": "LeTraits",
+  "description": "A comprehensive, modern educational perfume directory with an AI Consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
